@@ -1,0 +1,2 @@
+date=09-3-23
+echo "hello world,what is today ${date}"
